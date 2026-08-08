@@ -118,7 +118,6 @@ ICICIC 2026, Chongqing.
 <img src="https://img.shields.io/badge/Under%20review-yellow?style=flat-square" alt="Under review"/>
 &nbsp;
 
-
 ---
 
 ## ✨ Highlight — CoPL
