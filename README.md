@@ -2,16 +2,16 @@
 
 <p align="center">
   <a href="https://github.com/MaosenWilson">
-    <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=600&size=28&duration=3200&pause=1400&color=1F6FEB&center=true&vCenter=true&width=820&height=48&lines=Welcome+to+my+academic+homepage.;M.S.+Student+in+Software+Engineering+%40+SDJZU;Computational+Intelligence+Center+(CIC);Seeking+Ph.D.+admission+for+Fall+2028" alt="Headline" />
+    <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=600&size=28&duration=3200&pause=1400&color=1F6FEB&center=true&vCenter=true&width=820&height=48&lines=Welcome+to+my+academic+homepage.;M.S.+Student+%40+Shandong+Jianzhu+University;Offline+RL+%C2%B7+World+Models+%C2%B7+Embodied+AI;Ph.D.+applicant+for+Fall+2028" alt="Headline" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Degree-M.S.%20(Software%20Engineering)-0E4D92?style=flat-square" alt="degree"/>
-  <img src="https://img.shields.io/badge/Ph.D.%20target-Fall%202028-6F42C1?style=flat-square" alt="phd"/>
-  <img src="https://img.shields.io/badge/IEEE%20ICMA%202026-Oral-B31B1B?style=flat-square" alt="oral"/>
+  <img src="https://img.shields.io/badge/M.S.-Software%20Engineering%20%40%20SDJZU-0E4D92?style=flat-square" alt="ms"/>
+  <img src="https://img.shields.io/badge/B.Eng.-CQUPT-24292F?style=flat-square" alt="bs"/>
   <img src="https://img.shields.io/badge/Lab-CIC%20Vision%20Group-1B7F79?style=flat-square" alt="lab"/>
-  <a href="http://www.icicconference.org/cic/"><img src="https://img.shields.io/badge/CIC-Lab%20Homepage-0969DA?style=flat-square" alt="cic"/></a>
+  <img src="https://img.shields.io/badge/Ph.D.%20target-Fall%202028-6F42C1?style=flat-square" alt="phd"/>
+  <a href="http://www.icicconference.org/cic/"><img src="https://img.shields.io/badge/CIC-Homepage-0969DA?style=flat-square" alt="cic"/></a>
   <a href="https://orcid.org/0009-0002-0459-9017"><img src="https://img.shields.io/badge/ORCID-0009--0002--0459--9017-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="orcid"/></a>
 </p>
 
@@ -19,16 +19,15 @@
 
 ## About
 
-I am a first-year **Master's student in Software Engineering** at the  
-**School of Computer and Artificial Intelligence, Shandong Jianzhu University (SDJZU)**, Jinan, China.
+I am a **Master's student in Software Engineering** at the  
+**School of Computer and Artificial Intelligence, Shandong Jianzhu University (SDJZU)**, Jinan, China.  
+I previously received my **B.Eng.** from **Chongqing University of Posts and Telecommunications (CQUPT)**.
 
-I am a member of the **Computational Intelligence Center ([CIC](http://www.icicconference.org/cic/))** Vision Group,  
-advised by **Prof. Yunan Liu**.
+I work in the **[Computational Intelligence Center (CIC)](http://www.icicconference.org/cic/) Vision Group**, advised by **Prof. Yunan Liu**.
 
-My research focuses on **offline reinforcement learning** for robotic manipulation,  
-especially improving generalization to unseen goals via **language- and vision-language–guided counterfactual trajectory generation**.
+My current research studies how to make **offline reinforcement learning** generalize beyond the coverage of fixed demonstration datasets—especially under **unseen goals**—by generating counterfactual trajectories with **grounded language / vision–language models**. I am also exploring **world models** and reward design for longer-horizon control.
 
-I am preparing Ph.D. applications for **Fall 2028 entry** (2027–2028 application cycle).
+I plan to apply for **Ph.D. programs starting Fall 2028** (2027–2028 cycle).
 
 **Email:** `2025110104@stu.sdjzu.edu.cn`  
 **GitHub:** [MaosenWilson](https://github.com/MaosenWilson) · **ORCID:** [0009-0002-0459-9017](https://orcid.org/0009-0002-0459-9017)
@@ -37,98 +36,81 @@ I am preparing Ph.D. applications for **Fall 2028 entry** (2027–2028 applicati
 
 ## Research Interests
 
-- Offline RL and data-centric policy learning for robot manipulation  
-- Counterfactual trajectory augmentation with grounded LLMs / VLMs  
-- Generalization under goal shift (semantic & behavioral counterfactuals)  
-- World models and verifiable reward design for long-horizon control *(ongoing)*
+- Offline RL and data-centric policy learning for manipulation  
+- Language- / VLM-conditioned counterfactual trajectory generation  
+- Generalization under goal and behavior shift  
+- World models and multi-granularity reward design *(in progress)*
 
 ---
 
-## Education & Affiliation
+## Education
 
-| | |
-|:--|:--|
-| **Program** | M.S. in Software Engineering, SDJZU (2025 – present) |
-| **Advisor** | Prof. **Yunan Liu** |
-| **Lab** | [Computational Intelligence Center (CIC)](http://www.icicconference.org/cic/), Vision Group |
-| **School** | School of Computer and Artificial Intelligence, SDJZU |
-| **Student ID** | 2025110104 |
-| **Ph.D. plan** | Applicant for **Fall 2028** admission |
+| Period | Degree | Institution |
+|:------:|:-------|:------------|
+| 2025 – present | M.S., Software Engineering | Shandong Jianzhu University (SDJZU) |
+| – 2025 | B.Eng. | Chongqing University of Posts and Telecommunications (CQUPT) |
+| Fall 2028 *(target)* | Ph.D. applicant | Groups in RL / robotics / embodied AI |
+
+**Advisor:** Prof. **Yunan Liu**  
+**Lab:** [CIC](http://www.icicconference.org/cic/) Vision Group, SDJZU  
+**Student ID:** 2025110104
 
 ---
 
 ## Publications
 
-### Accepted
+### Conference
 
 1. **Maosen Zeng**, Yunan Liu.  
    **CoPL: Counterfactual Offline Policy Learning via Large Language Models.**  
-   *IEEE International Conference on Mechatronics and Automation (**ICMA**)*, Changchun, China, Aug. 2–5, 2026.  
-   **Oral presentation.** · [Code](https://github.com/MaosenWilson/CoPL)  
-   <img src="https://img.shields.io/badge/IEEE%20ICMA%202026-Oral%20Accepted-success?style=flat-square" alt="icma"/>
+   *IEEE International Conference on Mechatronics and Automation (ICMA)*, Changchun, China, 2026.  
+   Oral. · [Code](https://github.com/MaosenWilson/CoPL)
 
 2. **Maosen Zeng**, Yunan Liu.  
-   *The 20th International Conference on Intelligent Computing and Intelligent Control (**ICICIC**)*, Chongqing, China, Nov. 20–23, 2026.  
-   **Oral presentation (accepted).**  
-   <img src="https://img.shields.io/badge/ICICIC%202026-Oral%20Accepted-success?style=flat-square" alt="icicic"/>
+   *The 20th International Conference on Intelligent Computing and Intelligent Control (ICICIC)*, Chongqing, China, 2026.  
+   Oral (accepted).
 
-### Under Review
+### Journal (under review)
 
 3. **Maosen Zeng**, Yunan Liu.  
    Journal extension of the vision–language–guided offline RL research line.  
-   *IEEE Transactions on Cybernetics (**TCYB**)* (CAS Tier-1 / JCR Q1).  
-   **Under peer review.**  
-   <img src="https://img.shields.io/badge/IEEE%20TCYB-Under%20Review-yellow?style=flat-square" alt="tcyb"/>
-
-> Source: CIC Vision Group first-year annual summary (July 2026). Symposium-only presentations are omitted; only widely recognized venues are listed.
+   *IEEE Transactions on Cybernetics (TCYB)*. Under review.
 
 ---
 
-## Selected Work
+## Selected Project
+
+**[CoPL](https://github.com/MaosenWilson/CoPL)** studies counterfactual offline policy learning: a grounded LLM synthesizes full state–action trajectories for goals missing from the offline data; lightweight offline policies (e.g. BC / BCQ) are then trained on the mixture of real and generated rollouts.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=17&duration=2600&pause=1300&color=CF222E&center=true&vCenter=true&width=760&lines=CoPL+%C2%B7+Oral+%40+IEEE+ICMA+2026;Counterfactual+offline+policy+learning+via+LLMs;LLM+generates+trajectories+%E2%80%94+not+the+deployed+policy" alt="CoPL" />
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=16&duration=2800&pause=1500&color=57606A&center=true&vCenter=true&width=720&lines=Offline+RL+is+limited+by+dataset+coverage.;Counterfactual+rollouts+expand+what+the+policy+can+learn." alt="research line" />
 </p>
 
-**CoPL** addresses limited coverage in offline RL datasets by generating **full counterfactual state–action trajectories** with a grounded language model (Qwen + LoRA), then training standard offline policies (BC / BCQ) on real + synthetic data.
-
-- Benchmarks: CLEVR-Robot, Meta-World  
-- Talk: **TA1-6 (6)** · 10:45–11:00 · 4 Aug 2026 · Xian Room, Shangri-La Changchun  
-- Code: https://github.com/MaosenWilson/CoPL  
-
-**Ongoing:** world-model generation, multi-granularity rewards, and GRPO-style optimization toward stronger conference / journal targets (e.g. AAAI 2027 timeline per advisor guidance).
+Related code for ongoing world-model work: [DoR](https://github.com/MaosenWilson/DoR).
 
 ---
 
-## Ph.D. Timeline — Fall 2028 Entry
+## Ph.D. Timeline (Fall 2028)
 
-| Period | Focus |
-|:-------|:------|
-| **2026 – mid 2027** | Strengthen papers, open code, and a clear research narrative |
-| **2026 – 2027** | English proficiency tests if required by target programs |
-| **Spring – Summer 2027** | Shortlist labs; draft CV, research statement, writing samples |
-| **Summer – Fall 2027** | Contact potential advisors with a concise research-fit note |
-| **Nov 2027 – Jan 2028** | Submit applications (typical international deadlines) |
-| **Jan – Mar 2028** | Interviews |
-| **Feb – Apr 2028** | Offers & decisions |
-| **Fall 2028** | **Ph.D. enrollment** |
+| Period | Milestone |
+|:-------|:----------|
+| Now – mid 2027 | Papers, open implementations, clearer thesis narrative |
+| 2026 – 2027 | Language tests if required by target programs |
+| Spring – Summer 2027 | Shortlist groups; CV & research statement |
+| Summer – Fall 2027 | Contact potential advisors |
+| Nov 2027 – Jan 2028 | Submit applications |
+| Jan – Mar 2028 | Interviews |
+| Feb – Apr 2028 | Decisions |
+| **Fall 2028** | **Enrollment** |
 
-Open to groups in **offline RL, world models, embodied AI / VLA, and data-centric robot learning**.
+Happy to discuss fit with groups working on offline RL, world models, or embodied agents.
 
 ---
 
 ## Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,cpp,linux,git,docker,vscode&perline=9" alt="Skill icons" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Research-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Offline%20RL-BC%20%2F%20BCQ%20%2F%20CQL-6F42C1?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLM%20%2F%20VLM-Grounded%20rollouts-1F6FEB?style=flat-square" />
-  <img src="https://img.shields.io/badge/Robotics-Manipulation%20benchmarks-0E8A16?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,cpp,linux,git,docker,vscode&perline=9" alt="skills" />
 </p>
 
 ---
@@ -137,9 +119,9 @@ Open to groups in **offline RL, world models, embodied AI / VLA, and data-centri
 
 <p align="center">
   <a href="http://www.icicconference.org/cic/"><img src="https://img.shields.io/badge/CIC-Laboratory-1B7F79?style=for-the-badge" alt="CIC"/></a>
-  <a href="https://github.com/MaosenWilson/CoPL"><img src="https://img.shields.io/badge/CoPL-Oral%20%40%20ICMA%202026-B31B1B?style=for-the-badge" alt="CoPL"/></a>
-  <a href="https://orcid.org/0009-0002-0459-9017"><img src="https://img.shields.io/badge/ORCID-Profile-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
+  <a href="https://orcid.org/0009-0002-0459-9017"><img src="https://img.shields.io/badge/ORCID-0009--0002--0459--9017-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a>
   <a href="https://github.com/MaosenWilson"><img src="https://img.shields.io/badge/GitHub-MaosenWilson-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://github.com/MaosenWilson/CoPL"><img src="https://img.shields.io/badge/Code-CoPL-57606A?style=for-the-badge" alt="CoPL"/></a>
 </p>
 
 <p align="center">
@@ -150,8 +132,6 @@ Open to groups in **offline RL, world models, embodied AI / VLA, and data-centri
 
 <p align="center">
   <sub>
-    Last updated: August 2026 ·
-    M.S. @ SDJZU · CIC Vision Group · Advisor: Prof. Yunan Liu ·
-    Ph.D. applicant for <b>Fall 2028</b>
+    Updated Aug 2026 · M.S. @ SDJZU · B.Eng. @ CQUPT · CIC · Advisor: Prof. Yunan Liu · Ph.D. target Fall 2028
   </sub>
 </p>
