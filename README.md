@@ -71,7 +71,7 @@ Interested in groups on offline RL, world models, and embodied AI.
 
 <!-- Horizontal-style timeline: past = solid nodes, future = dashed -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/MaosenWilson/MaosenWilson/main/assets/education_timeline.svg" alt="Education timeline" width="900"/>
+<img src="./assets/education_timeline.png" alt="Education timeline" width="900"/>
 </p>
 
 <details>
