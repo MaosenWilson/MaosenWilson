@@ -115,7 +115,7 @@ ICICIC 2026, Chongqing.
 
 ### 📕 Journal
 
-**3.**  
+****  
 <img src="https://img.shields.io/badge/Under%20review-yellow?style=flat-square" alt="Under review"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Coming%20soon-6e7781?style=flat-square" alt="Coming soon"/>
